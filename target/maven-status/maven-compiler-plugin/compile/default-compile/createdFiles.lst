@@ -1,0 +1,5 @@
+page/TC_03_ValidateRemoveButton_Page.class
+util/BasePage.class
+page/TC_02_ValidateRemoveItems_Page.class
+util/BrowserFactory.class
+page/TC_01_ValidateCheckBox_Page.class

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="regression">
+<test name = "AddContactTest">
+<parameter name = "company" value="IBM" >
+<classes>
+<class name = "test.TC_01_ValidateCheckBox_Test"></class>
+<class name = "test.TC_02_ValidateRemoveItems_Test"></class>
+<class name = "test.TC_03_ValidateRemoveButton_Test"></class>
+</classes>
+</parameter>
+</test>
+</suite>
+<!-- -->
